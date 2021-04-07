@@ -12,8 +12,7 @@
     </style>
   </head>
   <body>
-    <div id="blur">number</div>
-    <div> testtest </div>
+    <div id="blur">number</div><div> testtest </div>
   </body>
 </html> Total People on the Leaderboard
 
