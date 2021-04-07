@@ -134,3 +134,27 @@ table preview
   }
   initPayPalButton();
   </script>
+  
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyDWfqadD3E8_MBlyKIGg--R8Jhzjr0p0bs",
+    authDomain: "vipleaderboard.firebaseapp.com",
+    projectId: "vipleaderboard",
+    storageBucket: "vipleaderboard.appspot.com",
+    messagingSenderId: "793084983556",
+    appId: "1:793084983556:web:ab62b034cd51087655b851",
+    measurementId: "G-44LKC38JB9"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
