@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/cm76543/VIPLeaderboard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-#_The more you pay, the higher you rank_
+# _The more you pay, the higher you rank_
 
 XX Total People on the Leaderboard
 YY Total $ Paid
