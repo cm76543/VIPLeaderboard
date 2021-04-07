@@ -7,7 +7,7 @@
       #blur {
         font-size: 20px;
         color: transparent;
-        text-shadow: 0 0 8px #000;
+        text-shadow: 0 0 20px #000;
       }
     </style>
   </head>
