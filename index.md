@@ -1,10 +1,26 @@
 # _The more you pay, the higher you rank_
 
 XX Total People on the Leaderboard
+
 YY Total $ Paid
 
 table preview
 
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      #blur {
+        font-size: 40px;
+        color: transparent;
+        text-shadow: 0 0 8px #000;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="blur">Blurry Text</div>
+  </body>
+</html>
 
 ## How many people paid to join the Leaderboard?
 ### And where do you stack up?
